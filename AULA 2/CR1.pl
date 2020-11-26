@@ -38,7 +38,7 @@ b)  r(a,b)
     r(b,a). 
 	volta para o primeiro objetivo (nao há s(Y,Z) que tenha Y=a)
  	
-     r(a,d).  
+    r(a,d).  
 	s(d,e). 
 	not(r(d,a)). 
 	not(s(d,d). 
