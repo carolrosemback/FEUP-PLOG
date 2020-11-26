@@ -7,7 +7,6 @@ s(b,d).
 s(c,c).  
 s(d,e). 
 
-
 /* 
 a)	r(a,d)
 	s(d,e)
@@ -45,5 +44,6 @@ b)  r(a,b)
 	not(s(d,d). 
  
 Retrocede do terceiro para o segundo 3 vezes. 
+
  */
  
